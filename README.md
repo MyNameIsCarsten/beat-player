@@ -1,10 +1,10 @@
 # beat-player
 ![Beat Player](./beat-player.jpg)
+
 Django-based beat player web app using HTML, Jinja, CSS, and Javascript. 
 
-Beats are added via the admin interface:
+Beats are added via the admin interface.
 
-![Add Song](./add-song.jpg)
 
 # Source
 This web app is based on the tutorial by [Onojakpor Ochuko](https://www.section.io/engineering-education/how-to-build-a-music-player-using-django/).
